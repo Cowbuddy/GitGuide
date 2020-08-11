@@ -13,7 +13,6 @@ clone - clones a repository from a remote repository to your local PC (downloads
 add - adds files you want to track within a repository so when changes are saved, they'll be added to Git (you can add them by using their specific file name or add everything from the reposity by using ".")
 commit - saves files into Git
 push - pushes saved files from Git to remote repository like Github
+("git push origin master")
 pull - Downloads changed files from remote repository into local cloned repository
 init - initializes repository as a Git repository
-
-## Future Stuff
