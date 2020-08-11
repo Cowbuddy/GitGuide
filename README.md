@@ -15,3 +15,5 @@ commit - saves files into Git
 push - pushes saved files from Git to remote repository like Github
 pull - Downloads changed files from remote repository into local cloned repository
 init - initializes repository as a Git repository
+
+## Future Stuff
