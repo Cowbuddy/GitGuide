@@ -30,3 +30,5 @@ Say you've created a project locally not knowing anything about git, but now wan
 ## Git Branching
 
 There are three types of branching, Main Branching, Feature Branching, and Hotfix Branching. You can use these to develop features and/or make fixes to your code when a bug occurs and then merge them to the latest master branch.
+
+## This should in theory on be in the feature branch???
