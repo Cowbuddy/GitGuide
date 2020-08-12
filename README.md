@@ -28,5 +28,3 @@ checkout - Used to swich between branches, but if you want to make a new branch 
 Say you've created a project locally not knowing anything about git, but now want to implement it into your project to have consistent updates. Simply, create a repo on Github with the same name, then get the ssh. Next on your local device init your repo as a git repo and then add a remote repo with the following command ("git remote add origin 'ssh here'")
 
 ## Git Branching
-
-There are three types of branching, Main Branching, Feature Branching, and Hotfix Branching. You can use these to develop features and/or make fixes to your code when a bug occurs and then merge them to the latest master branch.
