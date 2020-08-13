@@ -8,6 +8,7 @@ For normal text nothing is needed
 
 This is a MarkDown file or a md file for short (also the extension)
 In GitHub or any Git, always provide a file called README.md 
+to make links use brackets to identfy what you want it to say and next to it parenthesis for the link [BobTheBuilder](google.com)
 
 ## Git Commands and Terms
 
